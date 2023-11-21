@@ -1,2 +1,2 @@
 # AI Tools
- I'm lazy, so I try to automate everything I can
+A list of tools that I made for Diffusion AI models, especially like Stable Diffusion.
